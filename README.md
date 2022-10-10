@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/thushalya" target="blank"><img src="https://img.shields.io/twitter/follow/thushalya?logo=twitter&style=for-the-badge" alt="thushalya" /></a> </p>
 
-- 🔭 I’m currently studying **studying computer science and engineering at University of Moratuwa Sri Lanka**
+- 🔭 I’m currently **studying computer science and engineering at University of Moratuwa Sri Lanka**
 
 - 🌱 I’m currently learning **Flutter,Spring Boot,Vuejs,Angular,React Native**
 
