@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Thushalya Weerasuriya</h1>
-<h3 align="center">I’m interested in programming cyber security and new learning materials</h3>
+<h3 align="center">I’m a self motivated continuous learner, who is eager to solve problems while designing systems</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thushalya&label=Profile%20views&color=0e75b6&style=flat" alt="thushalya" /> </p>
 
 <p align="left"> <a href="https://twitter.com/thushalya" target="blank"><img src="https://img.shields.io/twitter/follow/thushalya?logo=twitter&style=for-the-badge" alt="thushalya" /></a> </p>
 
-- 🔭 I’m currently **studying computer science and engineering at University of Moratuwa Sri Lanka**
+- 🔭 I’m gratuated student from **Computer science and engineering at University of Moratuwa Sri Lanka**
 
-- 🌱 I’m currently learning **Flutter,Spring Boot,Vuejs,Angular,React Native**
+- 🌱 I’m currently learning **Python,JavaScript,TypeScript**
 
 - 👯 I’m looking to collaborate on **to collaborate on more projects that I can contribute quickly**
 
-- 💬 Ask me about **React ,MERN**
+- 💬 Ask me about **System Designing**
 
-- 📫 How to reach me **; Whatsapp :- 0754365392 email :-weeratharava@gmail.com**
+- 📫 How to reach me **; Whatsapp :- +94754365392 email :-thushalya.19@cse.mrt.ac.lk**
 
 - ⚡ Fun fact **I am funny guy among my friends**
 
