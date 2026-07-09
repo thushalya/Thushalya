@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **System Designing**
 
-- 📫 How to reach me **; Whatsapp :- +94754365392 email :-thushalya.19@gmail.com**
+- 📫 How to reach me **; email :-thushalya.19@gmail.com**
 
 - ⚡ Fun fact **I am funny guy among my friends**
 
